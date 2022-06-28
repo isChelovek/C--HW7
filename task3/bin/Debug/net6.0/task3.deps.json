@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task3/1.0.0": {
+        "dependencies": {
+          "hw7": "1.0.0"
+        },
+        "runtime": {
+          "task3.dll": {}
+        }
+      },
+      "hw7/1.0.0": {
+        "runtime": {
+          "hw7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hw7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
